@@ -1,0 +1,11 @@
+Models: Quaternius — https://quaternius.com
+  "Ultimate Monsters" and "Ultimate Animated Animals" packs.
+  "Modular Character Outfits - Fantasy" (Female Ranger outfit).
+  "Universal Base Characters" (female head, eyes, and eyebrows).
+
+License: CC0 1.0 Universal (Public Domain Dedication)
+  https://creativecommons.org/publicdomain/zero/1.0/
+
+Free for personal and commercial use. No attribution is required; the credit
+above is voluntary. Creature models are downloaded by tools/fetch-models.mjs.
+The optimized player source assets are stored directly beside this file.

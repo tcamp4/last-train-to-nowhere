@@ -1,0 +1,7 @@
+Universal Animation Library character rig and animations
+Creator: Quaternius (https://quaternius.com)
+Source mirror: https://github.com/J-Ponzo/gltf-universal-animation-library
+License: CC0 1.0 Universal (Public Domain Dedication)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Free for personal and commercial use. Attribution is not required.
